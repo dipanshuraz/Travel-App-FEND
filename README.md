@@ -2,6 +2,10 @@
 
 ## Getting started
 
+### This project created under Udacity Front-end Nanodegree Program. 
+
+### TO RUN THIS WEB-APP
+
 `cd` into your new folder and run:
 - `npm install` `npm run build-prod` `npm run start`
 
